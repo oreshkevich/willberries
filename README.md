@@ -1,8 +1,8 @@
 # willberries
-В проекте использовались: 
+## В проекте использовались: 
 - HTML
 - CSS
 - JavaSсript
-# Библиотеке: 
+### Библиотеке: 
 - Bootstrap v5
 - Swiper Slider JS
